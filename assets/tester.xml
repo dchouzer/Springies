@@ -1,0 +1,6 @@
+<model>
+	<mass id="m1" x="20" y="40"/>
+	<mass id="m2" x="20" y="100"/>
+</model>
+
+

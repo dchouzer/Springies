@@ -1,0 +1,10 @@
+<preferences>
+	<preference radius="10"/>
+	<preference amplitude="10"/> 
+	<preference mass="10"/>
+	<preference viscosity_magnitude="5"/>
+	<preference gravity_direction="90"/>
+	<preference gravity_magnitude="5"/>
+	<preference centermass_magnitude = "10"/>
+	<preference centermass_exponent = "20"/>
+</preferences>
